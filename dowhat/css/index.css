@@ -173,7 +173,7 @@ button {
 }
 #rules {
   background-color: white;
-  width: 80%;
+  width: 500px;
   height: 450px;
   top: 5%;
   z-index: 10;
@@ -193,7 +193,7 @@ button {
 #rules-container .fa {
   position: absolute;
   top: 14px;
-  right: 13px;
+  left: 1050px;
   z-index:15;
 }
 #cards-out {
