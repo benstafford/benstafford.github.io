@@ -110,7 +110,6 @@ button {
   border: none;
   height: 35px;
   padding: 5px 30px;
-  width: 80%;
 }
 
 .button {
@@ -153,7 +152,7 @@ button {
 .button.bottom {
   height: 35px;
   margin: 5px 5px;
-  width: 60%;
+  width: 50%;
 }
 .button.green {
   background-color: green;
